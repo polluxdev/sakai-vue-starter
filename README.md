@@ -8,22 +8,38 @@ See [Vite Configuration Reference](https://vitejs.dev/config/).
 
 ```sh
 npm install
+
+OR
+
+yarn install
 ```
 
 ### Compile and Hot-Reload for Development
 
 ```sh
 npm run dev
+
+OR
+
+yarn dev
 ```
 
 ### Compile and Minify for Production
 
 ```sh
 npm run build
+
+OR
+
+yarn build
 ```
 
 ### Lint with [ESLint](https://eslint.org/)
 
 ```sh
 npm run lint
+
+OR
+
+yarn lint
 ```
